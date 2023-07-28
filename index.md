@@ -2,40 +2,28 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+# ROB 498: Storytelling with Robotics
 
-There should be whitespace between paragraphs.
+W/F 10:30 am – 12:00 pm
+Fall 2023
+Course credits: 3
+Classroom: FRB 1150 (Student Team Space)
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+INSTRUCTOR: Alyssa Emigh & Abhishek Narula
+OFFICE HOURS: Tues 10am - 12noon (Do we need this??)
+COURSE WEBSITE: - Canvas 
+EMAIL: aemigh@umich.edu & abnarula@umich.edu
 
-# Header 1
+### Class Description
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+In this hands-on studio style course, you will learn how to create basic electronic circuits, fabricate custom mechanisms and program interactive behaviors to create kinetic and robotic art works. Using personal, cultural and political narratives, you will create poetic, engaging and thought-provoking pieces at the intersection of technology, art and design. The class will culminate in an exhibition to showcase final projects.  
 
-## Header 2
+This course emphasizes hands-on experimentation and exploration. The course is specifically structured so that you ‘learn by doing’. This process will not only strengthen your technical foundation but will also help you to explore the aesthetics possibilities of robotic mechanisms.
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+In addition to technical understanding, you will also explore the history of artistic practices and the various themes that have emerged with the use of electronics and other computational media in art and design. Broadly categorized under the term New Media Art, we will explore
+how other artists strive to create new forms and aesthetic experiences. In this course, we will aim to learn this language to develop, explore and expand our own aesthetics.
 
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
 
 #### Header 4
 
