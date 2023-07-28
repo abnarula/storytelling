@@ -4,12 +4,30 @@ layout: default
 
 ## Class Schedule
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+<table>
+    <thead>
+        <tr>
+            <th>Week #</th>
+            <th>Date</th>
+            <th>Module</th>
+            <th>Topic</th>
+            <th>Due</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan=2>1</td>
+            <td>08/</td>
+            <td>L3 Name A</td>
+        </tr>
+        <tr>
+            <td rowspan=2>2</td>
+            <td>L3 Name B</td>
+        </tr>
+        
+        
+    </tbody>
+</table>
 
 
 
