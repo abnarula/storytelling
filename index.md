@@ -11,8 +11,8 @@ Course credits: 3
 Classroom: FRB 1150 (Student Team Space)
 
 INSTRUCTOR: Alyssa Emigh & Abhishek Narula
-OFFICE HOURS: Tues 10am - 12noon (Do we need this??)
-COURSE WEBSITE: - Canvas 
+OFFICE HOURS: Tues 10am - 12noon Robotics Makerspace
+COURSE WEBSITE: - 
 EMAIL: aemigh@umich.edu & abnarula@umich.edu
 
 ### Class Description
