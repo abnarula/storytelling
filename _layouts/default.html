@@ -16,20 +16,16 @@
   <body>
     <div class="wrapper">
       <header>
-        <p class="header">Syllabus</p>
-        <p class="header">Schedule</p>        
-        <p class="header">Projects</p>
+        <p class="header"><a href='syllabus'>Syllabus</a></p>
+        <p class="header"><a href='schedule'>Schedule</a></p>        
+        <p class="header"><a href='projects'>Projects</a></p>
+        <p class="header"><a href='studentblogs'>Student Blogs</a></p>
+        <p class="header"><a href='resources'>Class Resources</a></p>
+        <p class="header"><a href='slides'>Lecture Slides</a></p>
+        
 
       
-        {% if site.github.is_project_page %}
-          <p class="header">This project is maintained by <a class="header name" href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-        {% endif %}
-
-        {% if site.github.is_user_page %}
-          <ul>
-            <li><a class="buttons github" href="{{ site.github.owner_url }}">GitHub Profile</a></li>
-          </ul>
-        {% endif %}
+       
       </header>
 
       <section>
