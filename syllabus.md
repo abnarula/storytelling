@@ -84,6 +84,14 @@ Regular attendance and relevant participation in-class activities are required. 
 
 A critique is a critical analysis of the work that you have developed and is an important part of any creative practice. Critique discussions will include constructive comments on the relationships between ideas and intentions, historical and contemporary references, as well as the choice of technical concepts and processes. You are expected to objectively articulate and discuss your work as well as the work of others. Participation in class discussions and critiques is essential!
 
+All projects will be presented to instructors and fellow classmates, in this time students should be able to answer the following questions,
+- What inspired you to choose this subject matter? 
+- Is there a story behind it?
+- What were your roses, buds and thorns? (i.e what went well, what went ok and what did you struggle with)
+- What element was made by hand? How did you do it?
+- If given the chance to revisit this piece, what would you do differently?
+
+
 ### Student Wellbeing & Equal Opportunity
 
 #### Commitment to equal opportunity
