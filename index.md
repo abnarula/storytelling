@@ -19,6 +19,8 @@ Classroom: FRB 1150 (Student Team Space)
 
 > "Robotic art is the use of real-time computational technologies and techniques deployed for cultural purposes". - [Simon Penny](https://simonpenny.net/frontpage-artworks.html)
 
+> "Homo sapiens is a storytelling animal that thinks in stories rather than in numbers or graphs..." - [Yuval Noah Harari](https://www.ynharari.com/book/sapiens-2/)
+
 In this hands-on, **studio-style** course, you will learn how to create basic electronic circuits, fabricate custom mechanisms, and program interactive behaviors to create kinetic and robotic art works. Using personal, cultural, and political narratives, you will create poetic, engaging, and thought-provoking pieces at the **intersection of technology, art, and design**. The class will culminate in an exhibition to showcase the final projects.  
 
 This course emphasizes hands-on experimentation and exploration. The course is specifically structured so that you **learn by doing**. This process will not only strengthen your technical foundation, but will also help you explore the **aesthetic possibilities of robotic mechanisms**.
