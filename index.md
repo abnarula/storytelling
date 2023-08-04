@@ -14,6 +14,9 @@ Classroom: FRB 1150 (Student Team Space)
 **OFFICE HOURS**: Tues 10am - 12noon Robotics Makerspace  
 **EMAIL**: aemigh@umich.edu & abnarula@umich.edu
 
+<img src="/assets/images/hello.jpeg" height="500">  
+_Hello_ - Genco Gulan, 2015
+
 ### Class Description  
 
 

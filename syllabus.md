@@ -46,7 +46,7 @@ This course is broadly divided into 3 modules, that allows you to explore a tech
 - Final Project : 25%
 - Creative Process Journal (Blog) :  10%
 - Attendance Class Participation + Critique : 10%
-    - **Total: 100%**  
+- **Total: 100%**  
 
 #### Final Grade
 
