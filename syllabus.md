@@ -70,6 +70,8 @@ All projects are graded using the following rubic:
 |60%| Project was not presented for critique but documentation of process |
 |0%| Project was not turned in on time |
 
+10% will be deducted for each day your project is late beyond the due date
+
 
 
 ### Student Blogs
@@ -80,7 +82,7 @@ Without these blog posts, your project sumbission will be considered incomplete.
 
 ### Attendance & Project Critiques
 
-Regular attendance and relevant participation in-class activities are required. Anyone arriving after 10:55 AM will be marked late. Being late for class 3 times counts as an unexcused absence. 2 unexcused absences equal a reduction of one whole grade point. Missing class OR an early departure, without permission, from class also constitutes an absence. A total of 3 unexcused absences will result in failing the class. If you must miss a class, it is your responsibility to get notes and assignments from a classmate. Late assignments will not be accepted.
+Regular attendance and relevant participation in-class activities are required. Anyone arriving after 10:55 AM will be marked late. Being late for class 3 times counts as an unexcused absence. 2 unexcused absences equal a reduction of one whole grade point. Missing class OR an early departure, without permission, from class also constitutes an absence. A total of 3 unexcused absences will result in failing the class. If you must miss a class, it is your responsibility to get notes and assignments from a classmate. 
 
 A critique is a critical analysis of the work that you have developed and is an important part of any creative practice. Critique discussions will include constructive comments on the relationships between ideas and intentions, historical and contemporary references, as well as the choice of technical concepts and processes. You are expected to objectively articulate and discuss your work as well as the work of others. Participation in class discussions and critiques is essential!
 
