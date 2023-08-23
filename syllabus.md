@@ -76,7 +76,7 @@ All projects are graded using the following rubic:
 
 ### Student Blogs
 
-Documentation is an essential component of any creative practice. You must appropriately document all the assignments, thought processes, sketches, prototypes, making processes, and final work completed in this course. This will be done on your blog. You are free to use any platform as long as it is viewable by everyone in the course. Each project will require you to create a minimum of 5 posts, i.e., 1-2 initial idea sketches, 2-3 photos of "in-progress" work, 1-2 photos/text of inspiration sources, and 1-2 images/videos of the completed work. 
+Documentation is an essential component of any creative practice. You must appropriately document all the assignments, thought processes, sketches, prototypes, making processes, and final work completed in this course. This will be done on your blog. You are free to use any platform as long as it is viewable by everyone in the course. Each project will require you to create a minimum of 5 posts, i.e., 1-2 initial idea sketches, 2-3 photos of "in-progress" work, 1-2 photos/text of inspiration sources, and 1-2 images/videos of the completed work. Additionally, you must write a (250 word min) **project statement** with each project. In this statement you should explain your thought process, reasoning of the decisions you made, your objectives etc. Here is a good reference: https://photoplacegallery.com/blog/artist-and-project-statements/ 
 
 Without these blog posts, your project sumbission will be considered incomplete. 
 
