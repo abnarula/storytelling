@@ -24,6 +24,7 @@ Design Resources:
 - [Paper Mechanisms](http://www.papermech.net/learn/)
 - [507 Mechanical Movements](http://507movements.com/)
 - [Gear Generator](https://geargenerator.com/)
+- [Free Gear Generator](https://evolventdesign.com/pages/spur-gear-generator)
 - [Joinery for 3D printed parts](https://markforged.com/resources/blog/joinery-onyx)
 
 [back](./)
