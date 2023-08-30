@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-# ROB 498: Storytelling with Robotics
+# ROB 498/599: Storytelling with Robotics
 University of Michigan  
 Wed/Fri 10:30 am – 12:00 pm  
 Fall 2023  
