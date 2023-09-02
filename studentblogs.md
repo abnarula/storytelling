@@ -11,7 +11,7 @@ layout: default
 - [Emily Keller](https://docs.google.com/presentation/d/14LEjqBkCjQaFuhFICYooPEoPxQ9gNAlOYZ9ujDeK-ws/edit?usp=sharing)
 - [Ashley Philip](https://ashleyep.myportfolio.com/)
 - [Sammy Staudinger](https://sammiest.wixsite.com/sammie-s-robotics-pr)
-
+- [Gongwei Chen](https://www.instagram.com/kingofannarbor/)
 
 
 [back](./)
