@@ -12,6 +12,7 @@ layout: default
 - [Ashley Philip](https://ashleyep.myportfolio.com/)
 - [Sammy Staudinger](https://sammiest.wixsite.com/sammie-s-robotics-pr)
 - [Gongwei Chen](https://www.instagram.com/kingofannarbor/)
+- [Bella Palumbi](https://rob498.blogspot.com/)
 
 
 [back](./)
