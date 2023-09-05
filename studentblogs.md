@@ -13,6 +13,8 @@ layout: default
 - [Sammy Staudinger](https://sammiest.wixsite.com/sammie-s-robotics-pr)
 - [Gongwei Chen](https://www.instagram.com/kingofannarbor/)
 - [Bella Palumbi](https://rob498.blogspot.com/)
+- [Kriti Gupta](https://kritirob498.blogspot.com/)
+- [Qilin He](https://qilinhe368.wixsite.com/elaine-s-storytellin)
 
 
 [back](./)
