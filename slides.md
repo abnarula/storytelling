@@ -9,6 +9,9 @@ layout: default
 3. <a href="https://docs.google.com/presentation/d/e/2PACX-1vTVoDvyxfDDOC9NOawhya94YPWtYpjgaqUERN18z-2mWdvRPv2Bb4yvRyU_wANG5xf2wzxlpU1URZrS/pub?start=false&loop=false&delayms=30000" target="_blank">Robotics in Entertainment Industry</a>
 4. <a href="https://docs.google.com/presentation/d/e/2PACX-1vTqvySAEiHfc76ufvnVTmqLwiUOtxGlWC8ywUIRbHG7gPTdJXZYzHyQ7KXovzri7g5p-B-SL2Z-YJx8/pub?start=false&loop=false&delayms=60000 " target="_blank"> Making Objects with Fusion 360 </a>
 5. <a href ="https://docs.google.com/presentation/d/e/2PACX-1vSEyS0hsGy7oRfN5xA3BScdj_K9S_PGSLkKxAmpHR22L36Cvbg4SgQpUoP01thsSxwaOQA1jM1qHpM1/pub?start=false&loop=false&delayms=60000" target="_blank"> Modeling with Blender & 3D Printing Best Practices </a>
+6.  <a href ="https://docs.google.com/presentation/d/e/2PACX-1vSn7Gh2YJNMRAlDErlA3gK8_3dqUApW4bBs0xO-eSgFvWwAL80Y8gSKByh7fYeWMc4DbqsMP0T96-7Y/pub?start=false&loop=false&delayms=60000" target="_blank"> Joinery & Fasteners for 3D Priting</a>
+7. <a href ="https://docs.google.com/presentation/d/e/2PACX-1vQZXzxenBXI_17OlHnmtxk2oMYJgVQTEj5phmPAWxHu9G_ZMAq6htgeMMTFksWkIrYlqX6XgB-pPyUs/pub?start=false&loop=false&delayms=60000" target="_blank"> Joinery & Fasteners for 3D Priting</a>
+
 
 
 [back](./)
