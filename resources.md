@@ -26,5 +26,6 @@ Design Resources:
 - [Gear Generator](https://geargenerator.com/)
 - [Free Gear Generator](https://evolventdesign.com/pages/spur-gear-generator)
 - [Joinery for 3D printed parts](https://markforged.com/resources/blog/joinery-onyx)
+- [Design Rules for 3D Printing](/assets/images/designrulesfor3dprinting.pdf)
 
 [back](./)
