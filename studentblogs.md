@@ -15,7 +15,7 @@ layout: default
 - [Kriti Gupta](https://kritirob498.blogspot.com/)
 - [Qilin He](https://qilinhe368.wixsite.com/elaine-s-storytellin)
 - [Ishrat Khan](https://ishratk.wixsite.com/rob498)
-- [Dale, "Derivative Art" )](https://derivative-art.github.io/invest_in_futility/)
+- [Dale, ( "Derivative Art" )](https://derivative-art.github.io/invest_in_futility/)
 - [Leila Idrissi](https://leilarob599.blogspot.com)
 - [Isabella Garcia]( https://isgarcia498.blogspot.com/)
 
