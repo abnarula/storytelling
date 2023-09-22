@@ -13,7 +13,7 @@ layout: default
 - [Gongwei Chen](https://github.com/abnarula/storytelling/)
 - [Bella Palumbi](https://rob498.blogspot.com/)
 - [Kriti Gupta](https://kritirob498.blogspot.com/)
-- [Qilin He](https://qilinhe368.wixsite.com/elaine-s-storytellin)
+- [Qilin He](https://qilinhe368.wixsite.com/elaine-s-storytellin/blog)
 - [Ishrat Khan](https://ishratk.wixsite.com/rob498)
 - [Dale, ( "Derivative Art" )](https://derivative-art.github.io/invest_in_futility/)
 - [Leila Idrissi](https://leilarob599.blogspot.com)
