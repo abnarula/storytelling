@@ -10,7 +10,7 @@ layout: default
 - [Emily Keller](https://docs.google.com/presentation/d/14LEjqBkCjQaFuhFICYooPEoPxQ9gNAlOYZ9ujDeK-ws/edit?usp=sharing)
 - [Ashley Philip](https://ashleyep.myportfolio.com/)
 - [Sammy Staudinger](https://sammiest.wixsite.com/sammie-s-robotics-pr)
-- [Gongwei Chen](https://github.com/abnarula/storytelling/)
+- [Gongwei Chen](https://kingofannarbor.blogspot.com/)
 - [Bella Palumbi](https://rob498.blogspot.com/)
 - [Kriti Gupta](https://kritirob498.blogspot.com/)
 - [Qilin He](https://qilinhe368.wixsite.com/elaine-s-storytellin/blog)
