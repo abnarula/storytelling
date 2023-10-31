@@ -13,6 +13,8 @@ layout: default
 7. <a href ="https://docs.google.com/presentation/d/e/2PACX-1vQZXzxenBXI_17OlHnmtxk2oMYJgVQTEj5phmPAWxHu9G_ZMAq6htgeMMTFksWkIrYlqX6XgB-pPyUs/pub?start=false&loop=false&delayms=60000" target="_blank"> Critique and constructive criticism</a>
 8.  <a href ="https://docs.google.com/presentation/d/e/2PACX-1vTaUJhelgnYxMA-EoKagWx1G73syQUJ0prCt4Q8l2r7EmyjkrvenQxaMvKPwXbPaCdzoZOuk0sl4N2b/pub?start=false&loop=false&delayms=60000" target="_blank">Project 2: Motorized Automata</a>
 9. <a href ="https://docs.google.com/presentation/d/e/2PACX-1vRkCZXvImczt5s_rfP6ltLY0ftueDYO7x3MgIHELYYXOCzYGNJ_Xjpa5egaLAqj3MfodghLHFiPWuYW/pub?start=false&loop=false&delayms=60000" target="_blank">Designing Kinetic Mechanisms</a>
+10. <a href ="https://docs.google.com/presentation/d/e/2PACX-1vRg4LvDLWrK2MBLO-J8kMlkPMFHZGIAPH8PrVMZx1TbiNyzw9rnJpXq2K8J0vc_kk_Cf9ViDULawsBK/pub?start=false&loop=false&delayms=60000" target="_blank">Final Project Brainstorming</a>
+
 
 
 
