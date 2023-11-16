@@ -16,6 +16,10 @@ layout: default
 10. <a href ="https://docs.google.com/presentation/d/e/2PACX-1vRg4LvDLWrK2MBLO-J8kMlkPMFHZGIAPH8PrVMZx1TbiNyzw9rnJpXq2K8J0vc_kk_Cf9ViDULawsBK/pub?start=false&loop=false&delayms=60000" target="_blank">Final Project Brainstorming</a>
 11. <a href ="https://docs.google.com/presentation/d/e/2PACX-1vRXO7fvhOSV-1G6XfGq-60pr4jYg739o9LPnfDOQxEYqw3DVT1RqE8j_wmWYnYmS_LSalLTbGtpy55O/pub?start=false&loop=false&delayms=30000" target="_blank">Final Project Requirements</a>
 12. <a href ="https://docs.google.com/presentation/d/e/2PACX-1vTNVQ5M0mny2zJJNafbtxv42JJdUf9EvKg5CeNDrjZQgjwcdUpzcZjhNEG1UII7-TdP8FufTZoDApAR/pub?start=false&loop=false&delayms=30000" target="_blank">Intro to Project 3 & Sensing</a>
+13. <a href ="https://docs.google.com/presentation/d/e/2PACX-1vSPamb2RiZ-m526NiRvrjY9Oq5VktXaQv8Kt3a3bc7RtL50FfXlQyvodn1GbMBsf-_8jolWTbZJrnWk/pub?start=false&loop=false&delayms=60000" target="_blank">More Electronics Resources</a>
+
+
+
 
 
 
