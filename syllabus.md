@@ -51,12 +51,14 @@ This course is broadly divided into 3 modules, that allows you to explore a tech
 #### Final Grade
 
 | > 93| A |
-| 88 - 93| A-  |
-| 83 - 87| B+ |
-| 78 - 82| B- |
-| 73 - 77| C+ |
-| 68 - 73| C- |
-| 63 - 67| D+ |
+| 90 - 93| A-  |
+| 87 - 89| B+ |
+| 84 - 86| B |
+| 80 - 83| B- |
+| 77 - 79| C+ |
+| 74 - 76| C |
+| 70 - 73| C- |
+| 64 - 69| D |
 | < 63 | F |
 
 ### Grading Policies
