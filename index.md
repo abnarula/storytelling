@@ -5,19 +5,22 @@ layout: default
 
 # ROB 498/599: Storytelling with Robotics
 University of Michigan  
-Wed/Fri 10:30 am – 12:00 pm  
-Fall 2023  
-Course credits: 3  
+Tues/Thurs 10:30 am – 1:30 pm  
+Fall 2026  
+Course credits: 4  
 Classroom: FRB 1150 (Student Team Space)
 
 **INSTRUCTORS**: Alyssa Emigh & Abhishek Narula  
-**OFFICE HOURS**: Tues 10am - 12noon Robotics Makerspace  
+**OFFICE HOURS**: Friday 10am - 12noon Robotics Makerspace  
 **EMAIL**: aemigh@umich.edu & abnarula@umich.edu
 
 <img src="assets/images/hello.jpeg" height="500">  
 _Hello_ - Genco Gulan, 2015
 
+## Detailed Syllabus soon to come
 
+
+<br>
 
 ### Class Description  
 
@@ -30,5 +33,4 @@ In this hands-on, **studio-style** course, you will learn how to create basic el
 
 This course emphasizes hands-on experimentation and exploration. The course is specifically structured so that you **learn by doing**. This process will not only strengthen your technical foundation, but will also help you explore the **aesthetic possibilities of robotic mechanisms**.
 
-In addition to technical understanding, you will also explore the history of artistic practices and the various themes that have emerged with the use of electronics and other computational media in art and design. Broadly categorized under the term "new media art," we will explore
-how other artists strive to create new forms and aesthetic experiences. In this course, we will aim to learn this language to develop, explore, and expand our own aesthetic sensibilities.
+In addition to technical understanding, you will also explore the history of artistic practices and the various themes that have emerged with the use of electronics and other computational media in art and design. Broadly categorized under the term "new media art," we will explore how other artists strive to create new forms and aesthetic experiences. In this course, we will aim to learn this language to develop, explore, and expand our own aesthetic sensibilities.
